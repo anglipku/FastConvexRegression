@@ -1,4 +1,6 @@
-Fast convex regression using ADMM algorithm, with implementations in C.
+FastConvexRegression
+
+Fast convex regression using ADMM algorithm, with implementations in C (FastCvxRegScripts).
 
 The problem formulation, a description of the algorithm (ADMM steps, duality gap), and a demo example can be found at cvx_regression_admm.pdf
 
